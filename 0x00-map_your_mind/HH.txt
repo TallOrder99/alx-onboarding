@@ -1,0 +1,15 @@
+Declare an integer variable called number1
+Declare an integer variable called number2
+Declare an integer variable that representes the square of number1 called square1
+Declare an integer variable that representes the square of number2 called square2
+Declare an integer variable that representes the sum of square1 and square2 called sum
+
+let square1=0
+let square2=0
+let sum=0
+input number1
+square1=number1*number2
+input number2
+square2=number2*number2
+sum=square1*square2
+print sum
